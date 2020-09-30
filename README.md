@@ -1,5 +1,13 @@
 # AngularD3Demo
 
+
+Integration demo of D3 js with angular and demonstarting simple piechart,scatter diagram,bar chart.
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Development server
